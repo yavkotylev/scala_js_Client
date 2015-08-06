@@ -1,0 +1,170 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -Xplugin:/Users/Yaroslav/.ivy2/cache/org.scala-js/scalajs-compiler_2.11.7/jars/scalajs-compiler_2.11.7-0.6.4.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$$anonfun$derive$macro$1$lzycompute$1$1$$anonfun$apply$1$$anonfun$apply$2.class
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$$anonfun$derive$macro$1$lzycompute$1$1$$anonfun$apply$1.class
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$$anonfun$derive$macro$1$lzycompute$1$1.class
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$$anonfun$derive$macro$4$lzycompute$1$1$$anonfun$apply$3.class
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$$anonfun$derive$macro$4$lzycompute$1$1.class
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$.class
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp.class
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/testCase$.class
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/testCase.class
+binary dependencies:
+4 items
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/.ivy2/cache/com.lihaoyi/upickle_sjs0.6_2.11/jars/upickle_sjs0.6_2.11-0.3.4.jar
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.4.jar
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> /Users/Yaroslav/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> TutorialApp
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> TutorialApp$
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> TutorialApp$$anonfun$derive$macro$1$lzycompute$1$1
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> TutorialApp$$anonfun$derive$macro$1$lzycompute$1$1$$anonfun$apply$1
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> TutorialApp$$anonfun$derive$macro$1$lzycompute$1$1$$anonfun$apply$1$$anonfun$apply$2
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> TutorialApp$$anonfun$derive$macro$4$lzycompute$1$1
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> TutorialApp$$anonfun$derive$macro$4$lzycompute$1$1$$anonfun$apply$3
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> testCase
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> testCase$
+used names:
+62 items
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> &&
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> <init>
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> ==
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> AbstractFunction1
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Array
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> CaseR
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> CaseW
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> ClassTag
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> JSApp
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Knot
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> None
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Predef
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Product
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Reader
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> ScalaRunTime
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Serializable
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> String
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> StringRW
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Tuple1
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Tuple1R
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Tuple1W
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> TutorialApp
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Unit
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> Writer
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> _1
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> _hashCode
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> _toString
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> a
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> apply
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> asInstanceOf
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> default
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> derive$macro$1
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> derive$macro$1$lzy
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> derive$macro$3
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> derive$macro$4
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> derive$macro$4$lzy
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> derive$macro$6
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> eq
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> isInstanceOf
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> js
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> macroR
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> macroR0
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> macroW
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> macroW0
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> map
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> materializeClassTag
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> ne
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> package
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> println
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> read
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> res
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> runtime
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> scala
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> scalajs
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> str
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> testCase
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> toString
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> typedProductIterator
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> upickle
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> write
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> x
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> ||
+product stamps:
+9 items
+/Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$$anonfun$derive$macro$1$lzycompute$1$1$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1438859097000)
+/Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$$anonfun$derive$macro$1$lzycompute$1$1$$anonfun$apply$1.class -> lastModified(1438859097000)
+/Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$$anonfun$derive$macro$1$lzycompute$1$1.class -> lastModified(1438859097000)
+/Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$$anonfun$derive$macro$4$lzycompute$1$1$$anonfun$apply$3.class -> lastModified(1438859097000)
+/Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$$anonfun$derive$macro$4$lzycompute$1$1.class -> lastModified(1438859097000)
+/Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp$.class -> lastModified(1438859097000)
+/Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/TutorialApp.class -> lastModified(1438859097000)
+/Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/testCase$.class -> lastModified(1438859097000)
+/Users/Yaroslav/Documents/working/Scala_js/Test2/target/scala-2.11/classes/testCase.class -> lastModified(1438859097000)
+source stamps:
+1 items
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> hash(f5e78892fd43afac11c83784a5a2d803d9cc6424)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428689516000)
+/Users/Yaroslav/.ivy2/cache/com.lihaoyi/upickle_sjs0.6_2.11/jars/upickle_sjs0.6_2.11-0.3.4.jar -> lastModified(1436853784000)
+/Users/Yaroslav/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.4.jar -> lastModified(1435869268000)
+/Users/Yaroslav/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Yaroslav/.ivy2/cache/com.lihaoyi/upickle_sjs0.6_2.11/jars/upickle_sjs0.6_2.11-0.3.4.jar -> upickle.Implicits
+/Users/Yaroslav/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.4.jar -> scala.scalajs.js.JSApp
+/Users/Yaroslav/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
+internal apis:
+1 items
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC75YqZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKF+8D90AAZub3RpZnlzcQB+AAyl6WLddAAEd2FpdHNxAH4ADOPSZMd0AA0kYXNJbnN0YW5jZU9mc3EAfgAM3lPqPnQADHByb2R1Y3RBcml0eXNxAH4ADDUVPRR0AAZlcXVhbHNzcQB+AAxTpjGmdAAMYXNJbnN0YW5jZU9mc3EAfgAMznbnFXQADHN5bmNocm9uaXplZHNxAH4ADD6bUyh0AAFhc3EAfgAMK6LcMHQADSRpc0luc3RhbmNlT2ZzcQB+AAy/eKnsdAAIY2FuRXF1YWxzcQB+AAwRhyhZdAAEbWFpbnNxAH4ADEGvcO90AA1wcm9kdWN0UHJlZml4c3EAfgAMCZde4nQACHRlc3RDYXNlc3EAfgAMl0IefnQACW5vdGlmeUFsbHNxAH4ADBBxqyR0AAtUdXRvcmlhbEFwcHNxAH4ADIhuvfR0AAxpc0luc3RhbmNlT2ZzcQB+AAzNWe5edAAGPGluaXQ+c3EAfgAMpTsk3nQAAj09c3EAfgAMEgBeb3QABWNsb25lc3EAfgAMLzxl+3QABGNvcHlzcQB+AAxABas4dAAIdG9TdHJpbmdzcQB+AAztDnFQdAACIT1zcQB+AAzlI0eQdAAIZ2V0Q2xhc3NzcQB+AAyYu1hDdAAOY29weSRkZWZhdWx0JDFzcQB+AAwGHAQndAACbmVzcQB+AAytkpVSdAACZXFzcQB+AAzVoY6jdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMTw/gsnQAFiRqcyRleHBvcnRlZCRtZXRoJG1haW5zcQB+AAzERkeydAACIyNzcQB+AAxwdnVSdAAIZmluYWxpemVzcQB+AAzycsxvdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxnPHwVdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AG4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4AdXNxAH4AbgF1cQB+AFIAAAAAcHNxAH4AbgF1cQB+AFIAAAAAcHNxAH4AbgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHR0AAVKU0FwcHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcQB+AI10AAdzY2FsYWpzc3EAfgCNdAACanNzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjnNxAH4AgXQABk9iamVjdHNxAH4AhXNxAH4AiHVxAH4AiwAAAANzcQB+AI10AARqYXZhc3EAfgCNdAAEbGFuZ3EAfgCWc3EAfgCBdAADQW55c3EAfgCFc3EAfgCIdXEAfgCLAAAAAnNxAH4AjXEAfgCQcQB+AJZwcHNxAH4AVHEAfgBhdXEAfgBiAAAAAHNxAH4AZABxAH4AJ3VxAH4AZgAAAAB+cQB+AGh0AAhDbGFzc0RlZnVxAH4AbAAAAABzcQB+AG4BcQB+AHZwc3EAfgBuAXNxAH4AeHNxAH4AbgF1cQB+AFIAAAAAcHNxAH4AbgF1cQB+AFIAAAAAcHNxAH4AbgF1cQB+AH8AAAAGc3EAfgCBdAAMU2VyaWFsaXphYmxlc3EAfgCFc3EAfgCIdXEAfgCLAAAAAnNxAH4AjXEAfgCQcQB+AJZzcQB+AIFxAH4At3NxAH4AhXNxAH4AiHVxAH4AiwAAAANzcQB+AI1xAH4AnXNxAH4AjXQAAmlvcQB+AJZzcQB+AIF0AAdQcm9kdWN0cQB+ALhzcQB+AIF0AAZFcXVhbHNxAH4AuHNxAH4AgXEAfgCYc3EAfgCFc3EAfgCIdXEAfgCLAAAAA3NxAH4AjXEAfgCdc3EAfgCNcQB+AJ9xAH4AlnNxAH4AgXEAfgChcQB+ALhwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFPAq9tzHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEovVXNlcnMvWWFyb3NsYXYvRG9jdW1lbnRzL3dvcmtpbmcvU2NhbGFfanMvVGVzdDIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPXniJL9Q6+sEcg3hKWi2APZzGQk
+external apis:
+0 items
+source infos:
+1 items
+/Users/Yaroslav/Documents/working/Scala_js/Test2/src/main/scala/TutorialApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTwKraK11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9ZYXJvc2xhdi9Eb2N1bWVudHMvd29ya2luZy9TY2FsYV9qcy9UZXN0Mi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTwKu3MJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9ZYXJvc2xhdi9Eb2N1bWVudHMvd29ya2luZy9TY2FsYV9qcy9UZXN0Mi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTwKvbcx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9ZYXJvc2xhdi9Eb2N1bWVudHMvd29ya2luZy9TY2FsYV9qcy9UZXN0Mi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
